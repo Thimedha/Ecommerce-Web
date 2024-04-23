@@ -1,0 +1,5 @@
+#leftsideimage{
+	background-image: url("@@.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
